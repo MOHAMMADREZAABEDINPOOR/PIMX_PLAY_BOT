@@ -4,7 +4,7 @@
 A production-style Telegram bot for app discovery, category browsing, and controlled file delivery.
 It combines local catalog data with live provider search, then serves results through a clean inline-button workflow.
 
-[![IR Read Persian Translation](https://img.shields.io/badge/IR-Read%20Persian%20Translation-0A2540?style=for-the-badge)](#persian-guide)
+[![Persian Description](https://img.shields.io/badge/Read-Persian%20Description-0A66C2?style=for-the-badge)](#persian-description)
 
 ## What This Bot Does ✨
 - Lets users search apps quickly with `🔍` flow
@@ -89,7 +89,7 @@ Build a fast, practical, and maintainable Telegram app-search bot with clean use
 
 ---
 
-<a id="persian-guide"></a>
+<a id="persian-description"></a>
 # 🇮🇷 راهنمای فارسی (ترجمه کامل)
 
 [![US Back to English](https://img.shields.io/badge/US-Back%20to%20English-0A2540?style=for-the-badge)](#english-guide)
@@ -179,5 +179,6 @@ python main.py
 
 ## هدف پروژه 🎯
 ساخت یک بات جستجوی اپ تلگرام که سریع، کاربردی، قابل نگهداری، و دارای جریان کاربر تمیز و چرخه تحویل کنترل‌شده باشد.
+
 
 
