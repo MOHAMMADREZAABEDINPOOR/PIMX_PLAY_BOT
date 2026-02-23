@@ -1,7 +1,10 @@
-﻿# PIMX PLAY BOT 🎮🤖
+﻿<a id="english-guide"></a>
+# PIMX PLAY BOT 🎮🤖
 
 A production-style Telegram bot for app discovery, category browsing, and controlled file delivery.
 It combines local catalog data with live provider search, then serves results through a clean inline-button workflow.
+
+[![IR Read Persian Translation](https://img.shields.io/badge/IR-Read%20Persian%20Translation-0A2540?style=for-the-badge)](#persian-guide)
 
 ## What This Bot Does ✨
 - Lets users search apps quickly with `🔍` flow
@@ -84,8 +87,12 @@ python main.py
 ## Project Goal 🎯
 Build a fast, practical, and maintainable Telegram app-search bot with clean user flow and controlled delivery lifecycle.
 
-<details>
-<summary><strong>🇮🇷 نمایش توضیحات فارسی (ترجمه دقیق)</strong></summary>
+---
+
+<a id="persian-guide"></a>
+# 🇮🇷 راهنمای فارسی (ترجمه کامل)
+
+[![US Back to English](https://img.shields.io/badge/US-Back%20to%20English-0A2540?style=for-the-badge)](#english-guide)
 
 # ربات PIMX PLAY 🎮🤖
 
@@ -173,4 +180,4 @@ python main.py
 ## هدف پروژه 🎯
 ساخت یک بات جستجوی اپ تلگرام که سریع، کاربردی، قابل نگهداری، و دارای جریان کاربر تمیز و چرخه تحویل کنترل‌شده باشد.
 
-</details>
+
