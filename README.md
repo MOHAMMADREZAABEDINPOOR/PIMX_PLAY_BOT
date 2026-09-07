@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=PIMX_PLAY_BOT&fontSize=42&fontAlignY=35&desc=%E2%9A%A1%20Production%20Telegram%20App%20Store%20%26%20APK%20Delivery%20Engine&descFontSize=16&descAlignY=62" alt="PIMX_PLAY_BOT Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=PIMX_PLAY_BOT&fontSize=42&fontAlignY=35&desc=%F0%9F%9B%91%20Archived%20Open-Source%20Telegram%20APK%20Delivery%20Engine&descFontSize=16&descAlignY=62" alt="PIMX_PLAY_BOT Banner" width="100%" />
 
 <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PLAY_BOT">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=780&lines=Production+Telegram+App+Store+%26+Android+APK+Distribution+Engine;Curated+Software+Categories%3A+VPNs%2C+Network+Tools%2C+Media+%26+Security;Instant+Direct+Telegram+File+Delivery+with+Automatic+Cache+Cleanup;Over+3%2C000%2B+Lines+of+Robust+Asynchronous+Python+Architecture;User+Analytics%2C+Broadcast+Engine+%26+Administrative+Control+Panel;Bilingual+Persian+%26+English+Interface+with+Inline+Search+Pagination" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=780&lines=Project+Status%3A+Inactive+%2F+Archived+APK+Engine;Production+Telegram+App+Store+%26+Android+APK+Distribution+Engine;Curated+Software+Categories%3A+VPNs%2C+Network+Tools%2C+Media+%26+Security;Instant+Direct+Telegram+File+Delivery+with+Automatic+Cache+Cleanup;Over+3%2C000%2B+Lines+of+Robust+Asynchronous+Python+Architecture;User+Analytics%2C+Broadcast+Engine+%26+Administrative+Control+Panel;Bilingual+Persian+%26+English+Interface+with+Inline+Search+Pagination" alt="Typing SVG" />
 </a>
 
 <br/>
 
+[![Project Status: Inactive / Archived](https://img.shields.io/badge/Status-Inactive%20%7C%20Archived-critical?style=for-the-badge&logo=archive)](https://github.com/MOHAMMADREZAABEDINPOOR)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge&logo=gnu)](https://www.gnu.org/licenses/agpl-3.0)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-v20+-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api)
@@ -26,6 +27,12 @@
 </div>
 
 ---
+
+> [!CAUTION]
+> ### 🛑 Project Status: Inactive / Archived (پروژه غیرفعال و بایگانی‌شده)
+> **Notice**: This repository is currently **inactive** and maintained solely as an archived open-source APK distribution reference. The live Telegram bot is offline.
+>
+> **توجه مهم**: این ریپازیتوری در حال حاضر **کاملاً غیرفعال (Inactive / Archived)** می‌باشد و ربات آنلاین فعالی ندارد؛ کدهای آن به عنوان یک آرشیو کامل فنی نگهداری می‌شوند.
 
 ## ⚡ Project Overview
 
