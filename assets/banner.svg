@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="plbBg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0a0514" /><stop offset="50%" stop-color="#180c2c" /><stop offset="100%" stop-color="#06020e" /></linearGradient>
+    <linearGradient id="plbNeon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ef4444"><animate attributeName="stop-color" values="#ef4444;#3b82f6;#10b981;#ef4444" dur="7s" repeatCount="indefinite" /></stop>
+      <stop offset="50%" stop-color="#3b82f6"><animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#ef4444;#3b82f6" dur="7s" repeatCount="indefinite" /></stop>
+      <stop offset="100%" stop-color="#10b981"><animate attributeName="stop-color" values="#10b981;#ef4444;#3b82f6;#10b981" dur="7s" repeatCount="indefinite" /></stop>
+    </linearGradient>
+    <linearGradient id="plbGrid" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#ef4444" stop-opacity="0" /><stop offset="100%" stop-color="#3b82f6" stop-opacity="0.35" /></linearGradient>
+    <filter id="plbGlow"><feGaussianBlur stdDeviation="5" result="b" /><feMerge><feMergeNode in="b" /><feMergeNode in="SourceGraphic" /></feMerge></filter>
+  </defs>
+
+  <style>
+    @keyframes plbFloat { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } }
+    .floating-apk { animation: plbFloat 5.6s ease-in-out infinite; }
+  </style>
+
+  <rect width="1200" height="360" fill="url(#plbBg)" />
+
+  <g opacity="0.65">
+    <line x1="0" y1="260" x2="1200" y2="260" stroke="#ef4444" stroke-opacity="0.25" stroke-width="1" />
+    <line x1="600" y1="260" x2="0" y2="360" stroke="url(#plbGrid)" stroke-width="1.5" />
+    <line x1="600" y1="260" x2="250" y2="360" stroke="url(#plbGrid)" stroke-width="1.5" />
+    <line x1="600" y1="260" x2="500" y2="360" stroke="url(#plbGrid)" stroke-width="1.5" />
+    <line x1="600" y1="260" x2="700" y2="360" stroke="url(#plbGrid)" stroke-width="1.5" />
+    <line x1="600" y1="260" x2="950" y2="360" stroke="url(#plbGrid)" stroke-width="1.5" />
+    <line x1="600" y1="260" x2="1200" y2="360" stroke="url(#plbGrid)" stroke-width="1.5" />
+    <line x1="0" y1="300" x2="1200" y2="300" stroke="#ef4444" stroke-opacity="0.2" stroke-width="1" />
+    <line x1="0" y1="340" x2="1200" y2="340" stroke="#3b82f6" stroke-opacity="0.3" stroke-width="1.5" />
+  </g>
+
+  <circle cx="200" cy="110" r="140" fill="#ef4444" opacity="0.08" filter="url(#plbGlow)" />
+  <circle cx="960" cy="170" r="160" fill="#3b82f6" opacity="0.12" filter="url(#plbGlow)" />
+
+  <!-- 3D Holographic APK Package Box & Delivery Drone -->
+  <g transform="translate(940, 180)" class="floating-apk">
+    <circle cx="0" cy="0" r="110" fill="none" stroke="url(#plbNeon)" stroke-width="2" stroke-dasharray="8 6" opacity="0.75">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite" />
+    </circle>
+    <!-- Isometric Package Box -->
+    <polygon points="0,-60 50,-30 0,0 -50,-30" fill="#1b1228" stroke="#ef4444" stroke-width="2" filter="url(#plbGlow)" />
+    <polygon points="-50,-30 0,0 0,60 -50,30" fill="#0f0918" stroke="#3b82f6" stroke-width="1.5" />
+    <polygon points="0,0 50,-30 50,30 0,60" fill="#261238" stroke="#10b981" stroke-width="1.5" />
+
+    <!-- Center Android Robot Head -->
+    <path d="M-18,-8 A18,18 0 0,1 18,-8 Z" fill="#10b981" filter="url(#plbGlow)" />
+    <circle cx="-7" cy="-14" r="2.5" fill="#ffffff" />
+    <circle cx="7" cy="-14" r="2.5" fill="#ffffff" />
+
+    <!-- Inactive Badge -->
+    <g transform="translate(-60, 48)">
+      <rect x="0" y="0" width="120" height="24" rx="6" fill="#450a0a" stroke="#ef4444" stroke-width="1" />
+      <text x="60" y="16" font-family="'Fira Code', monospace" font-size="10" font-weight="bold" fill="#fca5a5" text-anchor="middle">🛑 ARCHIVED BOT</text>
+    </g>
+  </g>
+
+  <!-- Left Typography -->
+  <g transform="translate(80, 140)">
+    <g transform="translate(0, -35)">
+      <rect x="0" y="-14" width="280" height="24" rx="12" fill="#ef4444" fill-opacity="0.15" stroke="#ef4444" stroke-width="1" />
+      <circle cx="12" cy="-2" r="4" fill="#ef4444" />
+      <text x="26" y="2" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="800" fill="#fca5a5" letter-spacing="2">ARCHIVED // APK DELIVERY ENGINE</text>
+    </g>
+
+    <text x="0" y="32" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Montserrat', sans-serif" font-size="52" font-weight="900" fill="url(#plbNeon)" filter="url(#plbGlow)" letter-spacing="3">
+      PIMX_PLAY_BOT
+    </text>
+
+    <text x="0" y="68" font-family="'Fira Code', monospace" font-size="16" font-weight="600" fill="#e2e8f0" letter-spacing="1">
+      ⚡ Production Telegram App Store, Android APK Search &amp; Instant File Delivery
+    </text>
+
+    <g transform="translate(0, 92)">
+      <rect x="0" y="0" width="165" height="26" rx="6" fill="#1c0a24" stroke="#ef4444" stroke-width="1" />
+      <text x="82" y="17" font-family="'Fira Code', monospace" font-size="11" font-weight="bold" fill="#fca5a5" text-anchor="middle">🛑 Inactive Reference</text>
+
+      <rect x="175" y="0" width="160" height="26" rx="6" fill="#1c0a24" stroke="#3b82f6" stroke-width="1" />
+      <text x="255" y="17" font-family="'Fira Code', monospace" font-size="11" font-weight="bold" fill="#60a5fa" text-anchor="middle">📦 APK Distribution</text>
+
+      <rect x="345" y="0" width="150" height="26" rx="6" fill="#1c0a24" stroke="#10b981" stroke-width="1" />
+      <text x="420" y="17" font-family="'Fira Code', monospace" font-size="11" font-weight="bold" fill="#34d399" text-anchor="middle">⚡ 3,000+ Lines Async</text>
+
+      <rect x="505" y="0" width="150" height="26" rx="6" fill="#1c0a24" stroke="#8b5cf6" stroke-width="1" />
+      <text x="580" y="17" font-family="'Fira Code', monospace" font-size="11" font-weight="bold" fill="#c084fc" text-anchor="middle">🧹 Auto Cache Prune</text>
+    </g>
+  </g>
+
+  <line x1="0" y1="358" x2="1200" y2="358" stroke="url(#plbNeon)" stroke-width="3" filter="url(#plbGlow)" />
+</svg>

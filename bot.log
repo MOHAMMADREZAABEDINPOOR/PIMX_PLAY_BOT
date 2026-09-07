@@ -1,0 +1,18 @@
+2026-06-07 21:03:47,618 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/getMe "HTTP/1.1 200 OK"
+2026-06-07 21:03:48,195 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/deleteWebhook "HTTP/1.1 200 OK"
+2026-06-07 21:03:48,205 - apscheduler.scheduler - INFO - Scheduler started
+2026-06-07 21:03:48,205 - telegram.ext.Application - INFO - Application started
+2026-06-07 21:03:51,059 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/getUpdates "HTTP/1.1 200 OK"
+2026-06-07 21:03:51,729 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/sendMessage "HTTP/1.1 200 OK"
+2026-06-07 21:03:57,445 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/getUpdates "HTTP/1.1 200 OK"
+2026-06-07 21:03:58,950 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/sendMessage "HTTP/1.1 200 OK"
+2026-06-07 21:04:05,228 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/getUpdates "HTTP/1.1 200 OK"
+2026-06-07 21:04:06,667 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/sendMessage "HTTP/1.1 200 OK"
+2026-06-07 21:04:08,513 - __main__ - WARNING - APKMirror page fetch failed (page=2): 429, message='Too Many Requests', url='https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=open%20vpn&page=2'
+2026-06-07 21:04:17,052 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/getUpdates "HTTP/1.1 200 OK"
+2026-06-07 21:04:27,621 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/getUpdates "HTTP/1.1 200 OK"
+2026-06-07 21:04:38,240 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/getUpdates "HTTP/1.1 200 OK"
+2026-06-07 21:04:48,789 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/getUpdates "HTTP/1.1 200 OK"
+2026-06-07 21:04:51,307 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/editMessageText "HTTP/1.1 200 OK"
+2026-06-07 21:04:59,404 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/getUpdates "HTTP/1.1 200 OK"
+2026-06-07 21:05:09,982 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8521135628:AAFTqwZlLyT-eCfe5OLDowZFWcNxM5Mit4c/getUpdates "HTTP/1.1 200 OK"

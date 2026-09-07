@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=PIMX_PLAY_BOT&fontSize=42&fontAlignY=35&desc=%F0%9F%9B%91%20Archived%20Open-Source%20Telegram%20APK%20Delivery%20Engine&descFontSize=16&descAlignY=62" alt="PIMX_PLAY_BOT Banner" width="100%" />
+<img src="./assets/banner.svg" alt="PIMX_PLAY_BOT 3D Banner" width="100%" />
 
 <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PLAY_BOT">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=780&lines=Project+Status%3A+Inactive+%2F+Archived+APK+Engine;Production+Telegram+App+Store+%26+Android+APK+Distribution+Engine;Curated+Software+Categories%3A+VPNs%2C+Network+Tools%2C+Media+%26+Security;Instant+Direct+Telegram+File+Delivery+with+Automatic+Cache+Cleanup;Over+3%2C000%2B+Lines+of+Robust+Asynchronous+Python+Architecture;User+Analytics%2C+Broadcast+Engine+%26+Administrative+Control+Panel;Bilingual+Persian+%26+English+Interface+with+Inline+Search+Pagination" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge&logo=gnu)](https://www.gnu.org/licenses/agpl-3.0)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-v20+-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api)
-[![Read in Persian](https://img.shields.io/badge/مطالعه_به_فارسی-Persian_README-008080?style=for-the-badge)](#-بخش-فوقالعاده-مفصل-و-جامع-به-زبان-فارسی-persian-documentation)
+[![Read in Persian](https://img.shields.io/badge/مطالعه_به_فارسی-Persian_README-008080?style=for-the-badge)](#persian-documentation)
 
 <p align="center">
   <b>PIMX_PLAY_BOT</b> is an enterprise Telegram software repository and Android APK application store bot containing over 3,000 lines of robust asynchronous Python. Featuring category-based software browsing (VPN tools, network scanners, media players, utilities), direct high-speed Telegram file delivery, and automated 60-second disk cache pruning, PIMX_PLAY_BOT delivers essential software directly to users without app store restrictions.
@@ -21,7 +21,7 @@
 [Project Overview](#-project-overview) •
 [Directory Anatomy](#-exhaustive-directory--file-anatomy) •
 [Quick Start](#-quick-start) •
-[توضیحات فارسی](#-بخش-فوقالعاده-مفصل-و-جامع-به-زبان-فارسی-persian-documentation) •
+[توضیحات فارسی](#persian-documentation) •
 [License](#-copyleft-license--legal-attribution)
 
 </div>
@@ -76,7 +76,8 @@ python main.py
 
 ---
 
-## 🇮🇷 بخش فوق‌العاده مفصل و جامع به زبان فارسی (Persian Documentation)
+## Persian Documentation
+### 🇮🇷 مستندات فوق‌العاده مفصل، جامع و فنی به زبان فارسی
 
 ### ۱. معرفی ربات فروشگاه نرم‌افزار PIMX_PLAY_BOT
 پروژه **PIMX_PLAY_BOT** یک اپ‌استور اختصاصی و فروشگاه نرم‌افزار در بستر تلگرام با بیش از ۳,۰۵۰ سطر کد پایتون است. در زمان‌هایی که دسترسی به گوگل پلی یا بازارهای برنامه‌نویسی به دلیل تحریم یا فیلترینگ مسدود می‌شود، این ربات به عنوان یک مخزن امن و مستقیم، فایل‌های نصبی معتبر اندروید (APK) فیلترشکن‌ها، ابزارهای شبکه و برنامه‌های کاربردی را مستقیماً برای کاربر ارسال می‌کند.
@@ -96,6 +97,6 @@ Distributed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=footer" alt="Footer" width="100%" />
+<img src="./assets/footer.svg" alt="PIMX_PLAY_BOT 3D Footer" width="100%" />
 <sub>Architected by <a href="https://github.com/MOHAMMADREZAABEDINPOOR"><b>MOHAMMADREZA ABEDINPOOR</b></a>. If PIMX_PLAY_BOT helps you distribute software, leave a ⭐!</sub>
 </div>
